@@ -74,24 +74,5 @@ li.menu-item{
     position: absolute;
     cursor: pointer;
   } 
-  .fa-upsize {
-      font-size: 12px;
-  }
-  .flex-container {
-      flex-direction: column;
-  }
-  .why-col {
-      width: 100%;
-  }
-  .quarter {
-      width: 100%;
-      padding: 0 8px;
-      text-align: center;
-  }
-  .hero-text {
-      height: 20vh !important;
-      width: 90% !important;
-      padding-left: 10px !important;
-      font-size: 12px;
-  }
+ 
 }
